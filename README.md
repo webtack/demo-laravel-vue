@@ -47,7 +47,19 @@ Use only **Spa** link in **Spa menu**
 
 ## From docker
 
-- Coming soon
+`docker-compose up --build`
+
+`docker exec dlv_app composer install`
+
+`docker exec dlv_app cp .env.docker .env`
+
+`docker exec dlv_app php artisan migrate --seed`
+
+#### Let's go to `localhost:8080`
+
+#### Spa news list `localhost:8080/spa/news/list`
+#### Spa tag list `localhost:8080/spa/tag/list`
+
 
 ## From vue development
 
