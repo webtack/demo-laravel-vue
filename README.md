@@ -7,6 +7,7 @@ The News portal who use Laravel framework as backend and Vue framework as fronte
 - Custom Eloquent
 - Unit Tests
 - Each news has unique slug field based on title field
+- News's slug defines auto
 - Each news can have only three tags
 - Each tag can have only unique slug
 - Tag's slug defines by user
