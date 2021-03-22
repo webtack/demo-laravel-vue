@@ -64,7 +64,6 @@ export default {
 						this.dialog = false
 					})
 					.catch(error => {
-						console.log(error.response.data)
 						this.dialog = false
 					})
 
