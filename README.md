@@ -6,10 +6,11 @@ The News portal who use Laravel framework as backend and Vue framework as fronte
 
 - Custom Eloquent
 - Unit Tests
-- News has only three tags
-- News has unique slug use title field
-- Tag has unique slug
-- Tag's relations removed when Tag or News has been deleted
+- Each news has unique slug field based on title field
+- Each news can have only three tags
+- Each tag can have only unique slug
+- Tag's slug defines by user
+- Related links to tag will auto remove when tag or news has been deleted
 
 ## [Demo Video](https://bit.ly/31b8dat)
 
