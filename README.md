@@ -13,7 +13,7 @@
 
 ## From Laravel
 
-NOTE: Spa's part of the application has been compiled and put to the public/spa folder. 
+**NOTE:** Spa's part of the application has been compiled and put to the `public/spa` folder. 
 Therefore It's already ready for using. You need only run application. 
 Please use next commands for it.
 
@@ -34,6 +34,10 @@ If you will use `php artisan serve` command
 Use only **Spa** link in **Spa menu**
 
 - Then use Spa's menu
+
+## From docker
+
+- Coming soon
 
 ## From vue development
 
