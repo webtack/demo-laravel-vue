@@ -25,6 +25,9 @@
             <hr>
             <ul>
                 <li>
+                    <a href="/spa">Dashboard</a>
+                </li>
+                <li>
                     <a href="/spa/news/list">News</a>
                 </li>
                 <li>

@@ -19,7 +19,7 @@ class TagSeeder extends Seeder
 	    	$name = $facker->text(25);
 	    	
 		    Tag::create([
-			    'name' => $name,
+			    'name' => 'Tag - ' . $name,
 			    'slug' => Str::slug($name)
 		    ]);
 	    }

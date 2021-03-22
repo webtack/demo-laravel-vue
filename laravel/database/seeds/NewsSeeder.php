@@ -16,7 +16,7 @@ class NewsSeeder extends Seeder
     	
         for ($i = 0; $i < 10; $i++) {
         	News::create([
-        		'title' => $facker->text(75),
+        		'title' => 'News - ' . $facker->text(75),
         		'body' => $facker->text(500)
 	        ]);
         }
