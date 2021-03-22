@@ -2,6 +2,12 @@
 
 The News portal who use Laravel framework as backend and Vue framework as frontend.
 
+## Tested by
+- PHP7.1
+- MYSQL 5.7
+- Laravel 5.8
+- Vue 2.6
+
 ## Features
 
 - Custom Eloquent
