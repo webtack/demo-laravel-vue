@@ -1,6 +1,13 @@
 # demo-laravel-vue
 
+## [Demo Video](https://bit.ly/31b8dat)
+
 ## From Laravel
+
+NOTE: Spa's part of the application has been compiled and put to the public/spa folder. 
+Therefore It's already ready for using. You need only run application. 
+Please use next commands for it.
+
 
 `cd laravel`
 
@@ -15,15 +22,15 @@
 ### !important
 
 If you will use `php artisan serve` command
-Go to the  `http://127.0.0.1:8000/spa/` path
-then use top SPA's menu
+Use only **Spa** link in **Spa menu**
 
+- Then use Spa's menu
 
 ## From vue development
 
 `cd vue`
 
-- Set `VUE_APP_BASE_API` variable in `.env.development` for getting data from backend
+- Set `VUE_APP_BASE_API` variable in `.env.development` for getting data by REST from backend
 
 `npm i`
 

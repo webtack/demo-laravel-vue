@@ -11,7 +11,7 @@
             >
                 <div class="d-flex align-center justify-space-between pa-1">
                     <router-link :to="{name: 'tags.view', params: {slug: tag.slug}}">
-                        #{{ tag.id }} - {{ tag.name }}
+                        {{ tag.name }}
                     </router-link>
                     <v-btn color="error" icon @click="deleteTag(tag.uuid)">
                         <v-icon>mdi-close</v-icon>

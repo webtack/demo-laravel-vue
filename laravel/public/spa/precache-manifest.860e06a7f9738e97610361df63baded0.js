@@ -1,9 +1,5 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7b3505289905dbafc84",
-    "url": "/spa/css/chunk-1fd0734b.e0ecb556.css"
-  },
-  {
     "revision": "42bc57add74f92ef1a6e",
     "url": "/spa/css/chunk-2535263e.ceec5a78.css"
   },
@@ -12,12 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa/css/chunk-3a3f32e9.0b43b742.css"
   },
   {
-    "revision": "f6def986db99183ecd11",
-    "url": "/spa/css/chunk-69027390.e0ecb556.css"
+    "revision": "238a8f9779de10ce6a26",
+    "url": "/spa/css/chunk-6c1c89ea.e0ecb556.css"
   },
   {
     "revision": "6fe579a72bab16d77600",
     "url": "/spa/css/chunk-7fd697c0.8f734cf8.css"
+  },
+  {
+    "revision": "2b1cf5b5656ace95c29a",
+    "url": "/spa/css/chunk-9562eba2.e0ecb556.css"
   },
   {
     "revision": "b364ccd806731a614ee1",
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "a81eccba979a813052d54b0b3c37140a",
+    "revision": "04bf8703648f830968e930cf214e0159",
     "url": "/spa/index.html"
   },
   {
@@ -40,12 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa/js/about.f072947e.js"
   },
   {
-    "revision": "81756e838c5da2993119",
-    "url": "/spa/js/app.d0455720.js"
-  },
-  {
-    "revision": "d7b3505289905dbafc84",
-    "url": "/spa/js/chunk-1fd0734b.bfac625c.js"
+    "revision": "fd00f60d3f4d2a2d5657",
+    "url": "/spa/js/app.ba21a05a.js"
   },
   {
     "revision": "42bc57add74f92ef1a6e",
@@ -72,12 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa/js/chunk-3a3f32e9.cb6ae960.js"
   },
   {
-    "revision": "f6def986db99183ecd11",
-    "url": "/spa/js/chunk-69027390.7e2f97ae.js"
+    "revision": "238a8f9779de10ce6a26",
+    "url": "/spa/js/chunk-6c1c89ea.20eb43bb.js"
   },
   {
     "revision": "6fe579a72bab16d77600",
     "url": "/spa/js/chunk-7fd697c0.f9dbeceb.js"
+  },
+  {
+    "revision": "2b1cf5b5656ace95c29a",
+    "url": "/spa/js/chunk-9562eba2.161074cc.js"
   },
   {
     "revision": "b364ccd806731a614ee1",
