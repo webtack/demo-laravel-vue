@@ -1,5 +1,14 @@
 # demo-laravel-vue
 
+## Features
+
+- Custom Eloquent
+- Unit Tests
+- News has only three tags
+- News has unique slug use title field
+- Tag has unique slug
+- Tag's relations removed when Tag or News has been deleted
+
 ## [Demo Video](https://bit.ly/31b8dat)
 
 ## From Laravel
