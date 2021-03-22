@@ -1,5 +1,7 @@
 # demo-laravel-vue
 
+The News portal who use Laravel framework as backend and Vue framework as frontend.
+
 ## Features
 
 - Custom Eloquent
